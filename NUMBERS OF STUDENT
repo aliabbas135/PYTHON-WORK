@@ -1,0 +1,14 @@
+#integers
+age = 18
+quantity = 21
+num_of_students  = 30
+print(f"you are {age} years old")
+print(f"you have {quantity} of items")
+print(f"you have {num_of_students} students in your class")
+
+
+
+
+#strings
+numbers = 48777
+print(f"multiplication {numbers} {433}")
