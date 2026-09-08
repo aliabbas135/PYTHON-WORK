@@ -1,4 +1,0 @@
-lenght = float(input("Enter the lenght"))
-widht = float(input("Enter the width"))
-area = lenght * widht
-print (f" the area is : {area}meters")
