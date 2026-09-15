@@ -12,6 +12,8 @@ Python practice and mini-projects — solving problems while learning core Pytho
 - `4.py` – [PYTHON TEMPERATURE CONVERTER WORKS IN PYTHON PROGRAME]
 - "5.py" - [AI VOICE ASSISTANT YOU CAN PROGRAME IT ACCORDINGLY]
 - "6.py" - [PYTHON WEIGHT CONVERTER KILOGRAMS INTO POUNDS AND POUNDS INTO KILOGRAMS]
+- "7.py" - [pay calculator is basically a programme of python which usually helps in accountability of your employees the work they have done per hour or per month you can             further customize this code , how much he earns including overtime if he did]
+-"8.py"  - [student marksheet, is a simple programme to calculate the marks of your student and their grades if they are fail or pass] 
 ## 🛠️ Tech
 Python 3
 
